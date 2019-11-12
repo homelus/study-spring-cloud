@@ -42,16 +42,24 @@ git 저장소에서 지원하는 중앙에 집중된 외부의 설정 관리
 설정 관련 자원은 Spring 의 `Environment` 와 연결되지만 원하는 경우 Spring 이외의 응요 프로그램에서 사용할 수 있습니다.
 
 ### Spring Cloud Netflix
+다양한 Netflix OSS(Open Source Software) components 를 통합한다. (Eureka, Hystrix, Zuul,  Archaius, etc..)
 
 ### Spring Cloud Bus
+서비스 와 서비스 인스턴스를 분산 메시징에서 함께 연결하기 위한 이벤트 버스
+클러스터에서 상태 변화를 전파하기 유용하다. (예: 환경 변경 이벤트)
 
 ### Spring Cloud Cloudfoundry
+Pivotal Cloud Foundry 와 함게 애플리케이션을 통합한다.
+service discovery 구현체를 제공하고 자원을 보호하는 SSO 와 OAuth2 를 구현하기 쉽게 만들어 준다.
 
 ### Spring Cloud Open Service Broker
+Open Service Broker API 를 구현하는 service broker 를 만들기 위한 시작 지점을 제공한다.
 
 ### Spring Cloud Cluster
+Zookeeper, Redis, Hazelcast, Consul 을 위한 추상화 및 구현체에 대한 리더십 선출 및 공용 상태 기반 패턴
 
 ### Spring Cloud Consul
+Hashicorp Consul 을 이용한 Service discovery 와 환경 관리
 
 ### Spring Cloud Security
 
