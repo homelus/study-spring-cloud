@@ -87,10 +87,14 @@ Spring Cloud Task App Starters 는 영구적으로 실행되지 않으며 한정
 Apache Zookeeper 에서 서비스검색과 설정 관리를 담당합니다.
 
 ### Spring Cloud AWS
+아마존 웹 서비스를 이용한 쉬운 통합. 잘 알려진 Spring 과 API 를 이용한 서비스를 제공하는 AWS 와 상호호환할 수 있는 편리한 방법을 제공
+(메시징, 캐싱 API). 개발자는 인프라 또는 유지관리에 신경쓰지 않고 호스팅 된 서비스를 중심으로 애플리케이션을 만들 수 있습니다.
 
 ### Spring Cloud Connectors
+데이터베이스 혹은 메시지 브로커(이전에 "Spring Cloud" 로 잘 알려진 프로젝트)와 같은 백엔드 서비스들을 연결하기 위해 다양한 플랫폼에서 PaaS 애플리케이션들을 쉽게 만들 수 있습니다.
 
 ### Spring Cloud Starters
+Spring Cloud 소비자를 위해 종속성 관리를 쉽게 만들어 주는 Spring Boot 스타일의 starter 프로젝트
 
 ### Spring Cloud CLI
 
