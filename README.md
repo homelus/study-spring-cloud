@@ -95,10 +95,13 @@ Apache Zookeeper 에서 서비스검색과 설정 관리를 담당합니다.
 
 ### Spring Cloud Starters
 Spring Cloud 소비자를 위해 종속성 관리를 쉽게 만들어 주는 Spring Boot 스타일의 starter 프로젝트
+(프로젝트가 중단되고 Angel.SR2 이후 다른 프로젝트와 병합되었습니다.)
 
 ### Spring Cloud CLI
+그루비를 이용해 빠르게 Spring Cloud 컴포넌트 애플리케이션을 만드는 Spring Boot CLI 플러그인 
 
 ### Spring Cloud Contract
+사용자가 성공적으로 Consumer Driven Contracts 접근 방법을 구현하기 위한 솔루션을 포함한 우산 역할의 프로젝트
 
 ### Spring Cloud Gateway
 
