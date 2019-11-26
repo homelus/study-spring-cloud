@@ -110,6 +110,6 @@ Project Router 기반의 지능적이고 프로그래밍 가능한 라우터
 자동 설정, Spring Environment와 다른 스프링 프로그래밍 모델과의 연결을 통해 Spring Boot 애플리케이션 통합을 제공한다.
 
 ### Spring Cloud Pipelines
-
+스프링 클라우드 파이프라인은 애플리케이션이 잘못되었을 때 쉽게 롤백이 되고 다운 타임이 없도록 배포되기 위해 고유의 배포 파이프라인을 제공합니다
 
 ### Spring Cloud Function
