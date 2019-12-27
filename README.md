@@ -41,7 +41,7 @@ public class Application {
 git 저장소에서 지원하는 중앙에 집중된 외부의 설정 관리
 설정 관련 자원은 Spring 의 `Environment` 와 연결되지만 원하는 경우 Spring 이외의 응 프로그램에서 사용할 수 있습니다.
 
-### Spring Cloud Netflix
+### [Spring Cloud Netflix](/documents/spring-cloud-netflix.md)
 다양한 Netflix OSS(Open Source Software) components 를 통합한다. (Eureka, Hystrix, Zuul,  Archaius, etc..)
 
 ### Spring Cloud Bus
