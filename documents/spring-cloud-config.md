@@ -48,3 +48,13 @@ public class Application {
 ```
 
 샘플 코드에 있는 `config.name` 값(또는 일반적인 스프링 부트 방법으로 설정하는 다른 값)은 로컬 환경 혹은 원격 Config Server 에서 가져올 수 있다.
+Config Server 는 기본적으로 우선합니다. 이를 보려면 애플리케이션에서 `/env` 엔드 포인트를 보고 `configServer` 속성 소스를 참조하세요.
+
+서버를 동작하려면 `spring-cloud-config-server` 종속성과 `@EnableConfigServer` 를 사용하세요.
+만약 `spring.config.name=configserver` 를 입력한다면 애플리케이션은 8888 포트로 동작되어 질 것이고 샘플 저장소의 데이터를 제공할 것 입니다.
+필요에 맞는 설정 데이터를 적용하기 위해 `spring.cloud.config.server.git.uri` 설정이 필요합니다.
+(기본적으로 git repository 의 위치이고 local `file:...` URL 이 될 수 있습니다.
+
+## Quick start
+
+[Spring Initializer](https://start.spring.io/) 와 함께 애플리케이션을 실행시킵니다.
