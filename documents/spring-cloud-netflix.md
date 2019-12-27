@@ -11,4 +11,11 @@ Client Side Load Balancing (Ribbon) 에 포함됩니다.
 
 Spring Cloud Netflix 특징들
 
-- Service Discovery: Eureka 
+- Service Discovery: Eureka 인스턴스를 등록할 수 있고 클라이언트는 Spring 에서 관리하는 bean 들을 사용해 인스턴스를 발견할 수 있습니다.
+- Service Discovery: 내장된 Eureka 서버는 선언적인 자바 설정으로 작성할 수 있습니다.
+- Circuit Breaker: Hystrix 클라이언트들은 간단한 annotation-driven 메서드 데코레이터로 구축할 수 있습니다.
+- Circuit Breaker: 선언적인 자바 설정이 포함된 내장 Hystrix 대시보드
+- Declarative REST Client: Feign 은 JAX-RS 또는 Spring MVC 애노테이션으로 꾸며진 인터페이스의 동적인 구현체를 생성합니다.
+- Client Side Load Balancer: Ribbon
+- External Configuration: 
+- Router and Filter: 
