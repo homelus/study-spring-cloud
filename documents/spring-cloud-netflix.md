@@ -41,3 +41,8 @@ public class Application {
 
 }
 ```
+
+서버를 동작시키기 위해 `spring-cloud-starter-netflix-eureka-server` 종속성과 `@EnableEurekaServer`를 사용합니다.
+
+## Quick start
+[Spring Initializer](https://start.spring.io/) 와 함께 애플리케이션을 실행시키세요
