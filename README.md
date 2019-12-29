@@ -44,7 +44,7 @@ git 저장소에서 지원하는 중앙에 집중된 외부의 설정 관리
 ### [Spring Cloud Netflix](/documents/spring-cloud-netflix.md)
 다양한 Netflix OSS(Open Source Software) components 를 통합한다. (Eureka, Hystrix, Zuul,  Archaius, etc..)
 
-### Spring Cloud Bus
+### [Spring Cloud Bus](/documents/spring-cloud-bus.md)
 서비스 와 서비스 인스턴스를 분산 메시징에서 함께 연결하기 위한 이벤트 버스
 클러스터에서 상태 변화를 전파하기 유용하다. (예: 환경 변경 이벤트)
 
