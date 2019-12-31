@@ -52,7 +52,7 @@ git 저장소에서 지원하는 중앙에 집중된 외부의 설정 관리
 Pivotal Cloud Foundry 와 함게 애플리케이션을 통합한다.
 service discovery 구현체를 제공하고 자원을 보호하는 SSO 와 OAuth2 를 구현하기 쉽게 만들어 준다.
 
-### [Spring Cloud Open Service Broker](spring-cloud-open-service-broker.md)
+### [Spring Cloud Open Service Broker](/documents/spring-cloud-open-service-broker.md)
 Open Service Broker API 를 구현하는 service broker 를 만들기 위한 시작 지점을 제공한다.
 
 ### Spring Cloud Cluster
