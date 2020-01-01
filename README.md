@@ -71,7 +71,7 @@ Spring Cloud 애플리케이션에서 Zipkin, HTrace, log-based 추적(ELK) 과 
 새로운 런타임에서 마이크로서비스 애플리케이션을 구성할 수 있는 cloud-native 통합 서비스이다.
 사용하기 쉬운 DSL, 드래그드랍 GUI 와 REST API 모두 마이크로서비스 기반의 데이터 파이프라인의 전체적인 통합을 간편화한다.
 
-### [Spring Cloud Stream](documents/spring-cloud.stream.md)
+### [Spring Cloud Stream](documents/spring-cloud-stream.md)
 외부의 시스템들과 연결할 수 있도록 빠르게 애플리케이션을 빌드하기 위한 가벼운 이벤트 기반의 마이크로서비스 프레임워크 
 
 ### Spring Cloud Stream App Starters
