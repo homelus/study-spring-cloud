@@ -45,6 +45,6 @@ public class DemogatewayApplication {
   }
 }
 ```
-gateway를 작동시키려면 `spring-cloud-starter-gateway` 종속성을 하면 됩니다.
+gateway를 작동시키려면 `spring-cloud-starter-gateway` 종속성을 주입하면 됩니다.
 
 
