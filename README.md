@@ -103,7 +103,7 @@ Spring Cloud 소비자를 위해 종속성 관리를 쉽게 만들어 주는 Spr
 ### Spring Cloud Contract
 사용자가 성공적으로 Consumer Driven Contracts 접근 방법을 구현하기 위한 솔루션을 포함한 우산 역할의 프로젝트
 
-### Spring Cloud Gateway
+### [Spring Cloud Gateway](/documents/spring-cloud-gateway.md)
 Project Router 기반의 지능적이고 프로그래밍 가능한 라우터
 
 ### Spring Cloud OpenFeign
