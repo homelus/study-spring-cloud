@@ -61,7 +61,7 @@ Zookeeper, Redis, Hazelcast, Consul 을 위한 추상화 및 구현체에 대한
 ### Spring Cloud Consul
 Hashicorp Consul 을 이용한 Service discovery 와 환경 관리
 
-### Spring Cloud Security
+### [Spring Cloud Security](/documents/spring-cloud-security.md)
 load-balanced OAuth2 rest client 지원과 Zuul proxy 에서 authentication header 중계를 제공한다.
 
 ### Spring Cloud Sleuth
