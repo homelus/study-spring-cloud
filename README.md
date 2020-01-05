@@ -64,7 +64,7 @@ Hashicorp Consul 을 이용한 Service discovery 와 환경 관리
 ### [Spring Cloud Security](/documents/spring-cloud-security.md)
 load-balanced OAuth2 rest client 지원과 Zuul proxy 에서 authentication header 중계를 제공한다.
 
-### Spring Cloud Sleuth
+### [Spring Cloud Sleuth](spring-cloud-sleuth.md)
 Spring Cloud 애플리케이션에서 Zipkin, HTrace, log-based 추적(ELK) 과 호환되는 분산된 추적 장치이다.
 
 ### [Spring Cloud Data Flow](documents/spring-cloud-data-flow.md)
