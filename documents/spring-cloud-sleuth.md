@@ -6,5 +6,7 @@ Spring Cloud Sleuth 는 Dapper, Zipkin, HTrace 의 힘을 빌려 Spring Cloud �
 
 ## Features
 
-Span 은 기본적인 작업 단위 입니다.
-예를 들어, RPTC에 응답을 보내는 것처럼 RPC 로 전송하는 것은 새로운 span 입니다.
+Span은 기본적인 작업 단위 입니다.
+예를 들어, RPTC에 응답을 보내는 것처럼 RPC 로 전송하는 것은 새로운 span입니다.
+Span은 고유한 64 bit 의 ID와 무언가의 일부인 span 을 추적하기 위한 또 다른 64bit 의 ID로 식별됩니다.
+ 
